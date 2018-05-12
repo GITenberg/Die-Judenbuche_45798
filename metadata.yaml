@@ -25,6 +25,8 @@ creator:
     - http://en.wikipedia.org/wiki/Annette_von_Droste-H%C3%BClshoff
     - http://de.wikipedia.org/wiki/Annette_von_Droste-H%C3%BClshoff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45798#Die-Judenbuche
 gutenberg_issued: '2014-05-28'
 gutenberg_type: Text
 identifiers:
