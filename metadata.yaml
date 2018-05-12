@@ -1,0 +1,42 @@
+_repo: Die-Judenbuche_45798
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Unold, Max
+    birthdate: 1885
+    deathdate: 1964
+    gutenberg_agent_id: '43461'
+    url: http://www.gutenberg.org/2009/agents/43461
+covers:
+- cover_type: archival
+  image_path: 45798-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Droste-Hülshoff, Annette von
+    aliases:
+    - Droste-Hulshoff, Annette von
+    - Droste-Huelshoff, Annette Elise von
+    - Von Droste-Hülshoff, Annette
+    birthdate: 1797
+    deathdate: 1848
+    gutenberg_agent_id: '43458'
+    url: http://www.gutenberg.org/2009/agents/43458
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Annette_von_Droste-H%C3%BClshoff
+    - http://de.wikipedia.org/wiki/Annette_von_Droste-H%C3%BClshoff
+description: ''
+gutenberg_issued: '2014-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45798'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Westphalia (Germany) -- Fiction'
+- !lcsh 'Country life -- Fiction'
+- !lcsh 'Murder -- Fiction'
+- !lcc 'PT'
+title: Die Judenbuche
+url: http://www.gutenberg.org/ebooks/45798
